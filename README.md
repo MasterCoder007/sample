@@ -21,3 +21,4 @@
      void checkBalance() {
     	 System.out.println("Your Current Account Balance is :" +currentBalance);
      }
+     addome();
